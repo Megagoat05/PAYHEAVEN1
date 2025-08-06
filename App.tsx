@@ -17,7 +17,7 @@ import { AccountPage } from './components/Account';
 import { AuthProvider, useAuth } from './hooks/useAuth';
 import { WalletProvider, useWallet } from './hooks/useWallet';
 import { Account } from './types';
-import { InfoSections } from './components/InfoSections';
+import { InfoSections } from './components/infoSections';
 import { FreezeGuard } from "./components/FreezeGuard";
 import TermsOfService from './components/terms';
 
